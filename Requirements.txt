@@ -1,0 +1,6 @@
+CTkMessagebox
+CTkTable
+customtkinter
+darkdetect
+pandas
+matplotlib
